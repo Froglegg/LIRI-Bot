@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Bands In Town</title>
+</head>
+
+<body>
+
+    <!-- Artist Select Box -->
+    <form id="artist-form">
+
+        <!-- Label for Text Box -->
+        <label for="artist-input">Choose Your Artist</label>
+
+        <!-- Text Input Box -->
+        <input type="text" id="artist-input"><br>
+
+        <!-- Submit Button -->
+        <input id="select-artist" type="submit" value="GO!">
+    </form>
+
+    <!-- Artist Information -->
+    <div id="artist-div"></div>
+
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+    artistName = "deerhunter";
+    var queryURL;
+    var artists = [];
+
+    function searchBandsInTown(artist) {
+        $("#artist-div").empty()
+        queryURL = "https://rest.bandsintown.com/artists/" + artist + "?app_id=1";
+        $.ajax({
+            url: queryURL,
+            method: "GET"
+        }).then(function(response) {
+            console.log(response);
+            $("#artist-div").prepend("<h2>" + response.name + "</h2>" + "<img style='width:400px;height:auto;' src='" + response.image_url + "' />" + "<h3>Number of Fans: <p>" + response.tracker_count + "</p></h3>" + "<h3>Number of Upcoming Events: <p>" + response.upcoming_event_count + "</p></h3>" + "<h3><a href='" + response.url + "'>See events</a>")
+        });
+    }
+
+    // Event handler for user clicking the select-artist button
+    $("#select-artist").on("click", function(event) {
+        // Preventing the button from trying to submit the form
+        event.preventDefault();
+        // Storing the artist name
+        var artist = $("#artist-input").val().trim();
+        // Running the searchBandsInTown function(passing in the artist as an argument)
+        searchBandsInTown(artist);
+        $("#artist-input").val("");
+
+    });
+</script>
+
+</html>
