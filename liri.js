@@ -42,7 +42,7 @@ function spotifyThis(object) {
         .search({ type: 'track', query: `${object.trim()}`, limit: 3 })
         .then(function(response) {
             console.log(`searching spotify for track: ${object}`);
-            var data = response.tracks.items[1].artists;
+            var data = response.data;
             console.log(data);
         })
         .catch(function(err) {
