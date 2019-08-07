@@ -1,0 +1,378 @@
+
+Praia do Taboão,
+Paredes De Coura,
+2019-08-14
+Paredes de Coura,
+Porto,
+2019-08-16
+Dom im Berg,
+Graz,
+2019-08-20
+Le Fort de Saint Père,
+Saint-pere-en-retz,
+2019-08-15
+Kino Šiška Centre for Urban Culture,
+Ljubljana,
+2019-08-22
+A38 Ship,
+Budapest,
+2019-08-21
+Fort De Saint Pere,
+Saint Malo,
+2019-08-17
+Domaine National de Saint-Cloud,
+Paris,
+2019-08-23
+Rock En Seine,
+Paris,
+2019-08-25
+Check-In Party Festival,
+Guéret,
+2019-08-24
+Track: Hey Ya!,
+Artist: OutKast,
+Album: Speakerboxxx/The Love Below,
+Song URL: https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM
+Track: Hey Ya!,
+Artist: OutKast,
+Album: The Way You Move / Hey Ya!,
+Song URL: https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy
+Track: Ya Hey,
+Artist: Vampire Weekend,
+Album: Modern Vampires of the City,
+Song URL: https://open.spotify.com/track/4eE6vZ2vOrceLq4xgz3VmG
+Track: Hey Ya,
+Artist: Sweater Beats,
+Album: Hey Ya,
+Song URL: https://open.spotify.com/track/6h2qCXYJRuAWo7mxSmkrYn
+Track: Hey Ya!,
+Artist: OutKast,
+Album: 00s Party Mixtape,
+Song URL: https://open.spotify.com/track/2hopb3OJKYhhZ6L4ca9pBp
+Movie name: The Dark Knight,
+Cast: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine,
+Year: 2008,
+IMDB Rating: 9.0/10,
+Tomato-Meter: 94%,
+Plot: When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.,
+Language: English, Mandarin
+Movie name: Don't Be a Menace to South Central While Drinking Your Juice in the Hood,
+Cast: Shawn Wayans, Marlon Wayans, Tracey Cherelle Jones, Chris Spencer,
+Year: 1996,
+IMDB Rating: 6.6/10,
+Tomato-Meter: 31%,
+Plot: A parody of several U.S. films about being in the 'Hood', for instance "Boyz n the Hood", "South Central", "Menace II Society", "Higher Learning" and "Juice".,
+Language: English, Spanish
+Movie name: Candy,
+Cast: Abbie Cornish, Heath Ledger, Geoffrey Rush, Tom Budge,
+Year: 2006,
+IMDB Rating: 7.3/10,
+Tomato-Meter: 47%,
+Plot: A poet falls in love with an art student who gravitates to his bohemian lifestyle -- and his love of heroin. Hooked as much on one another as they are on the drug, their relationship alternates between states of oblivion, self-destruction, and despair.,
+Language: English
+Movie name: The Dark Knight,
+Cast: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine,
+Year: 2008,
+IMDB Rating: 9.0/10,
+Tomato-Meter: 94%,
+Plot: When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.,
+Language: English, Mandarin
+Track: Hey Ya!,
+Artist: OutKast,
+Album: Speakerboxxx/The Love Below,
+Song URL: https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM
+Track: Hey Ya!,
+Artist: OutKast,
+Album: The Way You Move / Hey Ya!,
+Song URL: https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy
+Track: Ya Hey,
+Artist: Vampire Weekend,
+Album: Modern Vampires of the City,
+Song URL: https://open.spotify.com/track/4eE6vZ2vOrceLq4xgz3VmG
+Track: Hey Ya,
+Artist: Sweater Beats,
+Album: Hey Ya,
+Song URL: https://open.spotify.com/track/6h2qCXYJRuAWo7mxSmkrYn
+Track: Hey Ya!,
+Artist: OutKast,
+Album: 00s Party Mixtape,
+Song URL: https://open.spotify.com/track/2hopb3OJKYhhZ6L4ca9pBp
+Movie name: The Dark Knight,
+Cast: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine,
+Year: 2008,
+IMDB Rating: 9.0/10,
+Tomato-Meter: 94%,
+Plot: When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.,
+Language: English, Mandarin
+Praia do Taboão,
+Paredes De Coura,
+2019-08-14
+Le Fort de Saint Père,
+Saint-pere-en-retz,
+2019-08-15
+Paredes de Coura,
+Porto,
+2019-08-16
+Fort De Saint Pere,
+Saint Malo,
+2019-08-17
+A38 Ship,
+Budapest,
+2019-08-21
+Kino Šiška Centre for Urban Culture,
+Ljubljana,
+2019-08-22
+Check-In Party Festival,
+Guéret,
+2019-08-24
+Domaine National de Saint-Cloud,
+Paris,
+2019-08-23
+Dom im Berg,
+Graz,
+2019-08-20
+Rock En Seine,
+Paris,
+2019-08-25
+Praia do Taboão,
+Paredes De Coura,
+2019-08-14
+Fort De Saint Pere,
+Saint Malo,
+2019-08-17
+Paredes de Coura,
+Porto,
+2019-08-16
+Dom im Berg,
+Graz,
+2019-08-20
+Kino Šiška Centre for Urban Culture,
+Ljubljana,
+2019-08-22
+Domaine National de Saint-Cloud,
+Paris,
+2019-08-23
+Check-In Party Festival,
+Guéret,
+2019-08-24
+A38 Ship,
+Budapest,
+2019-08-21
+Le Fort de Saint Père,
+Saint-pere-en-retz,
+2019-08-15
+Rock En Seine,
+Paris,
+2019-08-25
+Movie name: Ilsa: She Wolf of the SS,
+Cast: Dyanne Thorne, Gregory Knoph, Tony Mumolo, Maria Marx,
+Year: 1975,
+IMDB Rating: 5.2/10,
+Tomato-Meter: 36%,
+Plot: Ilsa is an evil Nazi warden at a death camp that conducts "medical experiments". Ilsa's goal is to prove that women can withstand more pain and suffering than men and therefore should be allowed to fight on the front lines.,
+Language: English, German
+Movie name: The Dark Knight,
+Cast: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine,
+Year: 2008,
+IMDB Rating: 9.0/10,
+Tomato-Meter: 94%,
+Plot: When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.,
+Language: English, Mandarin
+Praia do Taboão,
+Paredes De Coura,
+2019-08-14
+Le Fort de Saint Père,
+Saint-pere-en-retz,
+2019-08-15
+Dom im Berg,
+Graz,
+2019-08-20
+Paredes de Coura,
+Porto,
+2019-08-16
+A38 Ship,
+Budapest,
+2019-08-21
+Fort De Saint Pere,
+Saint Malo,
+2019-08-17
+Domaine National de Saint-Cloud,
+Paris,
+2019-08-23
+Kino Šiška Centre for Urban Culture,
+Ljubljana,
+2019-08-22
+Check-In Party Festival,
+Guéret,
+2019-08-24
+Rock En Seine,
+Paris,
+2019-08-25
+Movie name: Deerhunter,
+Cast: Trent Anderson, Jackson Burns, Justin Dooley, Becky Moran,
+Year: 2009,
+IMDB Rating: No IMDB rating found,
+Tomato-Meter: no Rotten Tomatoes rating found,
+Plot: N/A,
+Language: English
+Track: Hey Ya!,
+Artist: OutKast,
+Album: Speakerboxxx/The Love Below,
+Song URL: https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM
+Track: Hey Ya!,
+Artist: OutKast,
+Album: The Way You Move / Hey Ya!,
+Song URL: https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy
+Track: Ya Hey,
+Artist: Vampire Weekend,
+Album: Modern Vampires of the City,
+Song URL: https://open.spotify.com/track/4eE6vZ2vOrceLq4xgz3VmG
+Track: Hey Ya!,
+Artist: OutKast,
+Album: 00s Party Mixtape,
+Song URL: https://open.spotify.com/track/2hopb3OJKYhhZ6L4ca9pBp
+Track: Hey Ya,
+Artist: Sweater Beats,
+Album: Hey Ya,
+Song URL: https://open.spotify.com/track/6h2qCXYJRuAWo7mxSmkrYn
+Praia do Taboão,
+Paredes De Coura,
+2019-08-14
+Fort De Saint Pere,
+Saint Malo,
+2019-08-17
+Le Fort de Saint Père,
+Saint-pere-en-retz,
+2019-08-15
+Dom im Berg,
+Graz,
+2019-08-20
+Paredes de Coura,
+Porto,
+2019-08-16
+Kino Šiška Centre for Urban Culture,
+Ljubljana,
+2019-08-22
+Check-In Party Festival,
+Guéret,
+2019-08-24
+Domaine National de Saint-Cloud,
+Paris,
+2019-08-23
+Rock En Seine,
+Paris,
+2019-08-25
+A38 Ship,
+Budapest,
+2019-08-21
+Track: Hey Ya!,
+Artist: OutKast,
+Album: Speakerboxxx/The Love Below,
+Song URL: https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM
+Track: Hey Ya!,
+Artist: OutKast,
+Album: The Way You Move / Hey Ya!,
+Song URL: https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy
+Track: Ya Hey,
+Artist: Vampire Weekend,
+Album: Modern Vampires of the City,
+Song URL: https://open.spotify.com/track/4eE6vZ2vOrceLq4xgz3VmG
+Track: Hey Ya!,
+Artist: OutKast,
+Album: 00s Party Mixtape,
+Song URL: https://open.spotify.com/track/2hopb3OJKYhhZ6L4ca9pBp
+Track: Hey Ya,
+Artist: Sweater Beats,
+Album: Hey Ya,
+Song URL: https://open.spotify.com/track/6h2qCXYJRuAWo7mxSmkrYn
+Track: Hey Ya!,
+Artist: OutKast,
+Album: Speakerboxxx/The Love Below,
+Song URL: https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM
+Track: Ya Hey,
+Artist: Vampire Weekend,
+Album: Modern Vampires of the City,
+Song URL: https://open.spotify.com/track/4eE6vZ2vOrceLq4xgz3VmG
+Track: Hey Ya!,
+Artist: OutKast,
+Album: 00s Party Mixtape,
+Song URL: https://open.spotify.com/track/2hopb3OJKYhhZ6L4ca9pBp
+Track: Hey Ya!,
+Artist: OutKast,
+Album: The Way You Move / Hey Ya!,
+Song URL: https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy
+Track: Hey Ya,
+Artist: Sweater Beats,
+Album: Hey Ya,
+Song URL: https://open.spotify.com/track/6h2qCXYJRuAWo7mxSmkrYn
+Movie name: Dark Knight,
+Cast: Charlotte Comer, Ben Pullen, Peter O'Farrell, Marama Jackson,
+Year: 2000–,
+IMDB Rating: 5.4/10,
+Tomato-Meter: no Rotten Tomatoes rating found,
+Plot: Set in the dark ages, a time of fear, magic and mystery. Ancient evil is about to be unleashed on the land and the only hope is the sharp sword, the pure heart and the mysterious force that protects the 'Chosen One' Ivanhoe.,
+Language: N/A
+Le Fort de Saint Père,
+Saint-pere-en-retz,
+2019-08-15
+Praia do Taboão,
+Paredes De Coura,
+2019-08-14
+Fort De Saint Pere,
+Saint Malo,
+2019-08-17
+Dom im Berg,
+Graz,
+2019-08-20
+A38 Ship,
+Budapest,
+2019-08-21
+Paredes de Coura,
+Porto,
+2019-08-16
+Kino Šiška Centre for Urban Culture,
+Ljubljana,
+2019-08-22
+Rock En Seine,
+Paris,
+2019-08-25
+Domaine National de Saint-Cloud,
+Paris,
+2019-08-23
+Check-In Party Festival,
+Guéret,
+2019-08-24
+Movie name: The Dark Knight,
+Cast: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine,
+Year: 2008,
+IMDB Rating: 9.0/10,
+Tomato-Meter: 94%,
+Plot: When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.,
+Language: English, Mandarin
+Track: Hey Ya!,
+Artist: OutKast,
+Album: Speakerboxxx/The Love Below,
+Song URL: https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM
+Track: Hey Ya,
+Artist: Sweater Beats,
+Album: Hey Ya,
+Song URL: https://open.spotify.com/track/6h2qCXYJRuAWo7mxSmkrYn
+Track: Hey Ya!,
+Artist: OutKast,
+Album: The Way You Move / Hey Ya!,
+Song URL: https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy
+Track: Ya Hey,
+Artist: Vampire Weekend,
+Album: Modern Vampires of the City,
+Song URL: https://open.spotify.com/track/4eE6vZ2vOrceLq4xgz3VmG
+Track: Hey Ya!,
+Artist: OutKast,
+Album: 00s Party Mixtape,
+Song URL: https://open.spotify.com/track/2hopb3OJKYhhZ6L4ca9pBp
+Movie name: The Dark Knight,
+Cast: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine,
+Year: 2008,
+IMDB Rating: 9.0/10,
+Tomato-Meter: 94%,
+Plot: When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.,
+Language: English, Mandarin
