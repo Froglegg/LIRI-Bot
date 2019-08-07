@@ -39,11 +39,18 @@ function searchBandsInTown(object) {
 
 function spotifyThis(object) {
     spotify
-        .search({ type: 'track', query: `${object.trim()}`, limit: 3 })
+        .search({ type: 'track', query: `${object.trim()}`, limit: 5 })
         .then(function(response) {
-            console.log(`searching spotify for track: ${object}`);
-            var data = response.data;
-            console.log(data);
+            console.log(`searching spotify for top 5 tracks for: ${object}`);
+            for (var i = 0; i <= response.tracks.items.length; i++) {
+                var artist = response.tracks.items[i].artists[0].name;
+                var name = response.tracks.items[i].name;
+                var url = response.tracks.items[i].external_urls.spotify;
+                var album = response.tracks.items[i].album.name;
+                console.log(`================\nTrack: ${name}\nArtist(s): ${artist}\nAlbum: ${album}\nSong URL: ${url}\n================`);
+
+            }
+
         })
         .catch(function(err) {
             console.log(err);
