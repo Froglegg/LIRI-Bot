@@ -1,5 +1,4 @@
  LIRI bot (Language Interpretation and Recognition Interface)
-  ##Set up
 
  LIRI bot is a language-detecting, semi-intelligent CLI application for satisfying your entertainment needs. Simply run `node liri.js` and answer the prompts.
   
