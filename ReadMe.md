@@ -1,6 +1,6 @@
-Welcome to LIRI bot!
+ #LIRI bot (Language Interpretation and Recognition Interface)
 
- LIRI bot (Language Interpretation and Recognition Interface) is a language-detecting, semi-intelligent CLI application for satisfying your entertainment needs. Simply run `node liri.js` and answer the prompts.
+ LIRI bot is a language-detecting, semi-intelligent CLI application for satisfying your entertainment needs. Simply run `node liri.js` and answer the prompts.
   
   The first option searches the Spotify database for information about the song you input; the second option searches the OMDB for information about a movie; the third option searches the Bands in Town API for upcoming events for whatever band you pass into it; and the fourth and final option does whatever you tell it to do in the random.txt file. 
   
