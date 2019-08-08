@@ -9,8 +9,7 @@
   2. `spotify-this-song` 
   3. `concert-this`
   Each command runs one of the options above. Be sure to comma-separate the song, movie, or band. Examples: `movie-this, the dark knight`, `spotify-this-song, hey ya`, `concert-this, deerhunter`
-
-  ##Set up
+  
 
   ### Required NPM Packages 
 
