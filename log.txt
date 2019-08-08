@@ -376,3 +376,40 @@ IMDB Rating: 9.0/10,
 Tomato-Meter: 94%,
 Plot: When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.,
 Language: English, Mandarin
+Movie name: The Dark Knight,
+Cast: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine,
+Year: 2008,
+IMDB Rating: 9.0/10,
+Tomato-Meter: 94%,
+Plot: When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.,
+Language: English, Mandarin
+Praia do Taboão,
+Paredes De Coura,
+2019-08-14
+Le Fort de Saint Père,
+Saint-pere-en-retz,
+2019-08-15
+Dom im Berg,
+Graz,
+2019-08-20
+Fort De Saint Pere,
+Saint Malo,
+2019-08-17
+Kino Šiška Centre for Urban Culture,
+Ljubljana,
+2019-08-22
+A38 Ship,
+Budapest,
+2019-08-21
+Paredes de Coura,
+Porto,
+2019-08-16
+Domaine National de Saint-Cloud,
+Paris,
+2019-08-23
+Rock En Seine,
+Paris,
+2019-08-25
+Check-In Party Festival,
+Guéret,
+2019-08-24
